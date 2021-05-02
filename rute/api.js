@@ -12,7 +12,7 @@ var creatorList = ['@zahirrr','@zhirrrgans','@zhirr_ajalah','@zahiranjay', '@zah
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
 
 
-var ytdl = require('ytdl-core');
+var ytdl = require('ytdl-core');p
 var ytpl = require('ytpl');
 var secure = require('ssl-express-www');
 var cors = require('cors');
